@@ -37,15 +37,15 @@ Execute the following command:
 dotnet run <numNodes> <topology> <algorithm>
 ```
 Parameters:  
-<numNodes>: Number of nodes in the network.
-<topology>: Type of network topology. Options:
-full  
-2D  
-line  
-imp3D  
-<algorithm>: Algorithm to use. Options:  
-gossip  
-push-sum  
+<numNodes>: Number of nodes in the network.  
+<topology>: Type of network topology. Options:  
+  full    
+  2D    
+  line    
+  imp3D    
+<algorithm>: Algorithm to use. Options:    
+  gossip    
+  push-sum    
 
 # Example Usage:
 ```sh
